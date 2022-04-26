@@ -70,6 +70,7 @@ header {
 .nav-head{
   text-align: center;
 }
+
 .h1-main{
   text-align: center;
   font-size: 50px;
@@ -79,12 +80,33 @@ header {
   margin: -10px;
 
 }
+.lst-main{
+  list-style: none;
+  
+}
+.li-main{
+  float: left;
+  position: relative;
+  text-align: right;
+  width: 744px;
+}
 .p-main{
-  text-align: center;
+  width: auto;
   font-size: 20px;
-  margin: -10px;
-  padding: 20px;
+  margin: 18px;
+  padding: 6px;
   color: var(--gris-animacion);
+  text-align: left;
+}
+.div-png{
+  text-align: center;
+  
+}
+.img-png{
+  
+  width: 262px;
+  padding: 7px;
+  
 }
 footer {
   margin: -5px;
